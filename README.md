@@ -7,7 +7,7 @@ These technologies enable the intricate processing and interpretation of data, f
 	Project Structure
 	Licences
 ## Buisness Need
-To bridges the gap between textual concepts and visual storytelling.
+In the fast-paced world of digital advertising, the ability to quickly create compelling, visually appealing content is crucial. Traditionally, this process has been time-consuming and resource-intensive. However, with the advent of AI and machine learning, we're on the cusp of a revolution in how we approach ad creation. This blog post explores the exciting realm of Automated Storyboard Synthesis for Digital Advertising, a game-changing approach that promises to streamline the creative process and reduce costs.
 
 ## Setup
  ### Prerequisites
